@@ -1,6 +1,6 @@
 # SpikeInterface-GUI paper figures
 
-A repo allowing you to reproduce the Windows seen in the Figures in "SpikeInterface-GUI: efficient and versatile spike sorting visualization and curation".
+A repo allowing you to reproduce the Windows seen in the Figures in ["SpikeInterface-GUI: efficient and versatile spike sorting visualization and curation"](https://zenodo.org/records/19481268).
 
 The Figures in the paper use real data from Harry Clark, Wolf De Wulf and Bri Vandrey while they were in the [Nolan Lab](https://nolansurmelilab.github.io/). In this repo, you can recreate the Figures using synthetic data.
 
