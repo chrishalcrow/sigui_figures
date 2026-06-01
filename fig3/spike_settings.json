@@ -1,0 +1,84 @@
+{
+    "probe": {
+        "show_channel_id": true,
+        "radius_channel": 50.0,
+        "radius_units": 30.0,
+        "auto_zoom_on_unit_selection": true,
+        "method_localize_unit": "center_of_mass"
+    },
+    "spikelist": {
+        "select_change_channel_visibility": false
+    },
+    "trace": {
+        "auto_zoom_on_select": true,
+        "spike_selection_xsize": 0.03,
+        "plot_threshold": true,
+        "alpha": 0.8,
+        "xsize_max": 4.0,
+        "max_visible_channel": 16
+    },
+    "waveform": {
+        "overlap": true,
+        "plot_selected_spike": true,
+        "auto_zoom_on_unit_selection": false,
+        "auto_move_on_unit_selection": true,
+        "show_only_selected_cluster": true,
+        "plot_limit_for_flatten": true,
+        "plot_std": true,
+        "show_channel_id": false,
+        "sparse_display": true
+    },
+    "waveformheatmap": {
+        "colormap": "hot",
+        "show_channel_id": true,
+        "bin_min": -573.4949951171875,
+        "bin_max": 573.2999877929688,
+        "bin_size": 1.9113249715169272,
+        "max_unit": 4
+    },
+    "isi": {
+        "window_ms": 50.0,
+        "bin_ms": 1.0
+    },
+    "crosscorrelogram": {
+        "window_ms": 50.0,
+        "bin_ms": 1.0,
+        "display_axis": true
+    },
+    "similarity": {
+        "method": "l1",
+        "colormap": "viridis",
+        "show_all": true
+    },
+    "spikeamplitude": {
+        "auto_decimate": true,
+        "max_spikes_per_unit": 10000,
+        "alpha": 0.7,
+        "scatter_size": 2.0,
+        "num_bins": 400,
+        "noise_level": true,
+        "noise_factor": 5
+    },
+    "spikedepth": {
+        "auto_decimate": true,
+        "max_spikes_per_unit": 10000,
+        "alpha": 0.7,
+        "scatter_size": 2.0,
+        "num_bins": 400
+    },
+    "tracemap": {
+        "auto_zoom_on_select": true,
+        "spike_selection_xsize": 0.03,
+        "alpha": 0.8,
+        "xsize_max": 4.0,
+        "colormap": "bwr",
+        "reverse_colormap": true,
+        "show_on_selected_units": true
+    },
+    "spikerate": {
+        "bin_s": 60
+    },
+    "metrics": {
+        "num_bins": 30
+    }
+}

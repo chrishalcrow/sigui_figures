@@ -1,0 +1,10 @@
+{
+  "zone1": ["curation", "unitlist"],
+  "zone2": ["merge"],
+  "zone3": ["waveform"],
+  "zone4": ["correlogram"],
+  "zone5": ["spikeamplitude"],
+  "zone6": ["spikerate"],
+  "zone7": ["ndscatter"],
+  "zone8": ["metrics"]
+}

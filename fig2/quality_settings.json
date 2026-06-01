@@ -1,0 +1,16 @@
+{
+    "waveform": {
+        "overlap": true,
+        "plot_selected_spike": true,
+        "auto_zoom_on_unit_selection": false,
+        "auto_move_on_unit_selection": true,
+        "show_only_selected_cluster": true,
+        "plot_limit_for_flatten": true,
+        "plot_std": true,
+        "show_channel_id": false,
+        "sparse_display": true
+    },
+    "spikerate": {
+        "bin_s": 120
+    }
+}

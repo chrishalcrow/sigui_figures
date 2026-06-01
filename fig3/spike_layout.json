@@ -1,0 +1,10 @@
+{
+  "zone1": ["spikedepth"],
+  "zone2": [],
+  "zone3": ["waveform"],
+  "zone4": ["trace"],
+  "zone5": ["unitlist"],
+  "zone6": ["spikelist"],
+  "zone7": [],
+  "zone8": ["tracemap", "mainsettings"]
+}
