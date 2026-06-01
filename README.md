@@ -7,7 +7,7 @@ The Figures in the paper use real data from Harry Clark, Wolf De Wulf and Bri Va
 To reproduce the SpikeInterface-GUI windows seen in the paper, first download this repo and change directory into it:
 
 ```
-git clone ...
+git clone https://github.com/chrishalcrow/sigui_figures.git
 cd sigui_figures
 ```
 
